@@ -1,3 +1,0 @@
-# This is test.txt written for master branch. 
-
-# And this message is sent via Pycharm.
